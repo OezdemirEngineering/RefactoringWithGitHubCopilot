@@ -6,6 +6,7 @@
     <RootNamespace>_02_14_InappropiateIntimacy</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
 </Project>
