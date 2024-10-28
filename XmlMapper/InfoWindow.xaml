@@ -1,0 +1,24 @@
+﻿<mah:MetroWindow x:Class="XmlMapper.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Icon="pack://application:,,,/Resources/logo.ico"
+        xmlns:local="clr-namespace:XmlMapper"
+        mc:Ignorable="d"
+        Title="Info" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Image Source="pack://application:,,,/Resources/logopng-300x212.png" Height="100" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="0"/>
+        <TextBlock FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Text="XML Mapper Application 1.01" Margin="10"></TextBlock>
+        <TextBlock FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="2" Height="149"><Run Text="Oezdemir Engineering"/><LineBreak/><Run/><LineBreak/><Run Text="Brünestraße 23"/><LineBreak/><Run Text="52531 Übach Palenberg"/><LineBreak/><Run/><LineBreak/><Run Text="Tel.: +49 1633405013"/><LineBreak/><Run Text="E-Mail: info@oeeng.de"/></TextBlock>
+
+        <TextBlock Text="© 2024 by OEENG" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="3"/>
+    </Grid>
+</mah:MetroWindow>

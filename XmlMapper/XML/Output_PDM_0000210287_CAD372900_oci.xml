@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Artikel>
+    <Attribute>
+        <Approved_By>oci</Approved_By>
+        <Approved_At>01.07.2024</Approved_At>
+        <Revision>-</Revision>
+        <ArticleNo>CAD372900</ArticleNo>
+        <Custom_Comment />
+        <Customer_DrawingNo />
+        <Description>Blende Zusammenbau</Description>
+        <Description_EN />
+        <Description2 />
+        <DrawingNo>CAD372900</DrawingNo>
+        <Einheit />
+        <Material>siehe Einzelteil</Material>
+        <State>Freigegeben</State>
+        <Surface>0.055</Surface>
+        <Weight>0.464</Weight>
+        <Surface_finish_2 />
+        <Surface_Destiniation_1 />
+        <Surface_Destiniation_2 />
+        <Surface_finish_1 />
+        <Thickness />
+        <Beschreibung />
+        <PDM-Vorlage>F</PDM-Vorlage>
+        <Länge />
+        <Rahmenbreite />
+        <Rahmenlänge />
+        <WINKEL1 />
+        <WINKEL2 />
+        <Certificate />
+        <Normung />
+        <Surface_Destiniation_3 />
+        <Surface_finish_3 />
+        <Anzahl_Referenzen>1.0</Anzahl_Referenzen>
+    </Attribute>
+    <Stückliste>
+        <Position>
+            <Approved_By>BRU</Approved_By>
+            <Approved_At>19.04.2024</Approved_At>
+            <Revision />
+            <ArticleNo>1000099070</ArticleNo>
+            <Custom_Comment />
+            <Customer_DrawingNo />
+            <Description>Sechskantschraube M8x40</Description>
+            <Description_EN />
+            <Description2>hexagon head screw M8x40</Description2>
+            <DrawingNo>SK10-08040B</DrawingNo>
+            <Einheit />
+            <Material>St</Material>
+            <State>Norm - Freigegeben</State>
+            <Surface />
+            <Weight />
+            <Surface_finish_2>galv. verzinkt</Surface_finish_2>
+            <Surface_Destiniation_1 />
+            <Surface_Destiniation_2 />
+            <Surface_finish_1 />
+            <Thickness />
+            <Beschreibung />
+            <PDM-Vorlage>K</PDM-Vorlage>
+            <Länge />
+            <Rahmenbreite />
+            <Rahmenlänge />
+            <WINKEL1 />
+            <WINKEL2 />
+            <Certificate />
+            <Normung>DIN 933 / DIN EN ISO 4017</Normung>
+            <Surface_Destiniation_3 />
+            <Surface_finish_3 />
+            <Anzahl_Referenzen>3</Anzahl_Referenzen>
+            <Pos />
+            <Unit>STK</Unit>
+        </Position>
+        <Position>
+            <Approved_By>BRU</Approved_By>
+            <Approved_At>23.04.2024</Approved_At>
+            <Revision />
+            <ArticleNo>1000000891</ArticleNo>
+            <Custom_Comment />
+            <Customer_DrawingNo />
+            <Description>Unterlegscheibe M8</Description>
+            <Description_EN />
+            <Description2>Washer M8</Description2>
+            <DrawingNo>US20-08A</DrawingNo>
+            <Einheit />
+            <Material>A2</Material>
+            <State>Norm - Freigegeben</State>
+            <Surface />
+            <Weight />
+            <Surface_finish_2 />
+            <Surface_Destiniation_1 />
+            <Surface_Destiniation_2 />
+            <Surface_finish_1 />
+            <Thickness />
+            <Beschreibung />
+            <PDM-Vorlage>K</PDM-Vorlage>
+            <Länge />
+            <Rahmenbreite />
+            <Rahmenlänge />
+            <WINKEL1 />
+            <WINKEL2 />
+            <Certificate />
+            <Normung>DIN 125-1 / DIN EN ISO 7089</Normung>
+            <Surface_Destiniation_3 />
+            <Surface_finish_3 />
+            <Anzahl_Referenzen>5</Anzahl_Referenzen>
+            <Pos />
+            <Unit>STK</Unit>
+        </Position>
+        <Position>
+            <Approved_By>oci</Approved_By>
+            <Approved_At>01.07.2024</Approved_At>
+            <Revision>-</Revision>
+            <ArticleNo>CAD372897</ArticleNo>
+            <Custom_Comment />
+            <Customer_DrawingNo />
+            <Description>Abdeckung</Description>
+            <Description_EN />
+            <Description2 />
+            <DrawingNo>CAD372897</DrawingNo>
+            <Einheit />
+            <Material>1.4301</Material>
+            <State>Freigegeben</State>
+            <Surface>0.016</Surface>
+            <Weight>0.121</Weight>
+            <Surface_finish_2 />
+            <Surface_Destiniation_1 />
+            <Surface_Destiniation_2 />
+            <Surface_finish_1>K320</Surface_finish_1>
+            <Thickness>2.0</Thickness>
+            <Beschreibung />
+            <PDM-Vorlage>F</PDM-Vorlage>
+            <Länge />
+            <Rahmenbreite />
+            <Rahmenlänge />
+            <WINKEL1 />
+            <WINKEL2 />
+            <Certificate />
+            <Normung />
+            <Surface_Destiniation_3 />
+            <Surface_finish_3 />
+            <Anzahl_Referenzen>1</Anzahl_Referenzen>
+            <Pos />
+            <Unit>STK</Unit>
+        </Position>
+        <Position>
+            <Approved_By>oci</Approved_By>
+            <Approved_At>01.07.2024</Approved_At>
+            <Revision>-</Revision>
+            <ArticleNo>CAD372899</ArticleNo>
+            <Custom_Comment />
+            <Customer_DrawingNo />
+            <Description>Blende kpl.</Description>
+            <Description_EN />
+            <Description2 />
+            <DrawingNo>CAD372899</DrawingNo>
+            <Einheit />
+            <Material>siehe Einzelteil</Material>
+            <State>Freigegeben</State>
+            <Surface>0.033</Surface>
+            <Weight>0.267</Weight>
+            <Surface_finish_2 />
+            <Surface_Destiniation_1 />
+            <Surface_Destiniation_2 />
+            <Surface_finish_1 />
+            <Thickness />
+            <Beschreibung />
+            <PDM-Vorlage>F</PDM-Vorlage>
+            <Länge />
+            <Rahmenbreite />
+            <Rahmenlänge />
+            <WINKEL1 />
+            <WINKEL2 />
+            <Certificate />
+            <Normung />
+            <Surface_Destiniation_3 />
+            <Surface_finish_3 />
+            <Anzahl_Referenzen>1</Anzahl_Referenzen>
+            <Pos />
+            <Unit>STK</Unit>
+        </Position>
+    </Stückliste>
+</Artikel>

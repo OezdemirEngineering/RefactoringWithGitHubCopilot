@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Artikel>
+    <Attribute>
+        <Approved_By>oci</Approved_By>
+        <Approved_At>01.07.2024</Approved_At>
+        <Revision>-</Revision>
+        <ArticleNo>CAD372897</ArticleNo>
+        <Custom_Comment />
+        <Customer_DrawingNo />
+        <Description>Abdeckung</Description>
+        <Description_EN />
+        <Description2 />
+        <DrawingNo>CAD372897</DrawingNo>
+        <Einheit />
+        <Material>1.4301</Material>
+        <State>Freigegeben</State>
+        <Surface>0.016</Surface>
+        <Weight>0.121</Weight>
+        <Surface_finish_2 />
+        <Surface_Destiniation_1 />
+        <Surface_Destiniation_2 />
+        <Surface_finish_1>K320</Surface_finish_1>
+        <Thickness>2.0</Thickness>
+        <Beschreibung />
+        <PDM-Vorlage>F</PDM-Vorlage>
+        <Länge />
+        <Rahmenbreite />
+        <Rahmenlänge />
+        <WINKEL1 />
+        <WINKEL2 />
+        <Certificate />
+        <Normung />
+        <Surface_Destiniation_3 />
+        <Surface_finish_3 />
+        <Anzahl_Referenzen>1.0</Anzahl_Referenzen>
+    </Attribute>
+    <Stückliste>
+        <Position>
+            <ArticleNo>1000001855</ArticleNo>
+            <Pos>1</Pos>
+            <Anzahl_Referenzen>1</Anzahl_Referenzen>
+            <Länge>0.1</Länge>
+            <Breite>0.1</Breite>
+            <Thickness>0.002</Thickness>
+            <Unit>m²</Unit>
+        </Position>
+    </Stückliste>
+</Artikel>
